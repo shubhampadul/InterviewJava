@@ -13,6 +13,7 @@ public class CJCheckStringEmpty1 {
 		System.out.println("Enter String s2:"+s2.isEmpty());
 		System.out.println("Enter String s3:"+s3.isEmpty());
 		System.out.println("Enter String s4:"+s4.charAt(0));
+		System.out.println("Enter String s4:"+s4.charAt(1));
 		System.out.println(s2.isEmpty());
 		System.out.println(s5.isEmpty());
 

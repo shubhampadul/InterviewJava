@@ -2,6 +2,8 @@ package clover.infotech;
 
 import java.util.function.Supplier;
 
+//OTP Generation
+
 public class SupplierDemo {
 
 	public static void main(String[] args) {
